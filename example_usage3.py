@@ -1,3 +1,4 @@
+#import redfin
 from redfin import RedFin
 
 redfin = RedFin()
